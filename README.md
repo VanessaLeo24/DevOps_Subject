@@ -1,7 +1,6 @@
 # Mata Kuliah DevOps - Semester 7
 
-Nama : Vanessa Leonora
-NIM  : 201110311
+Nama : Vanessa Leonora | NIM  : 201110311
 
 **Dokumentasi - Todo App dengan Arsitektur Microservices**
 
