@@ -1,5 +1,8 @@
 # Mata Kuliah DevOps - Semester 7
 
+Nama : Vanessa Leonora
+NIM  : 201110311
+
 **Dokumentasi - Todo App dengan Arsitektur Microservices**
 
 Berikut adalah proyek Todo App yang menggunakan arsitektur microservices untuk memungkinkan skalabilitas, kinerja, dan fleksibilitas yang lebih baik dalam mengelola daftar tugas. Aplikasi ini memisahkan komponen-komponennya menjadi berbagai layanan yang independen, memungkinkan pengembangan, pemeliharaan, dan penyebaran yang lebih efisien.
